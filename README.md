@@ -20,3 +20,20 @@ To run this project locally, ensure you have the Java Development Kit (JDK) inst
    ```bash
    git clone [https://github.com/johannavalaragon/dna-tree.git](https://github.com/johannavalaragon/dna-tree.git)
    cd dna-tree
+2. Compile the Java files:
+   ```bash
+   javac *.java
+   ```
+
+## Usage
+The program operates via a command-line interface and reads commands from a provided text file.
+
+**Execution Command:**
+```bash
+java DNAProj [input-file.txt]
+```
+
+**Example Execution:**
+```bash
+java DNAProj input.txt
+```
