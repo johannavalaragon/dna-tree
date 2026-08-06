@@ -1,0 +1,7 @@
+insert ACGT
+insert AAAA
+insert AA
+print
+search AA
+remove ACGT
+print
