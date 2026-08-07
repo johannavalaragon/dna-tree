@@ -18,7 +18,7 @@ To run this project locally, ensure you have the Java Development Kit (JDK) inst
 
 1. Clone the repository and navigate into the project directory:
    ```bash
-   git clone [https://github.com/johannavalaragon/dna-tree.git](https://github.com/johannavalaragon/dna-tree.git)
+   git clone https://github.com/johannavalaragon/dna-tree.git
    cd dna-tree
 2. Compile the Java files:
    ```bash
